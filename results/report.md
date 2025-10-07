@@ -18,12 +18,17 @@ Honey bee diseases dominate the top of the list. American foulbrood (Paenibacill
 ## Outbreaks by Species
 ![Outbreaks by species](./outbreaks_by_species.png)
 
-Most records (4.7 million) are attributed to an unspecified species category, likely reflecting aggregate or environmental reporting. Among identified hosts, cattle, wild boar, sheep, and swine stand out, indicating that multi-host livestock diseases remain a major concern.
+The plotted bars exclude the "Unknown" category, but the summary table retains it and it still dominates with roughly 4.7 million outbreaks. Among identified hosts, cattle, wild boar, sheep, and swine remain prominent, underscoring that multi-host livestock diseases are a major concern.
 
 ## Outbreaks by Year
 ![Outbreaks by year](./outbreaks_by_year.png)
 
 Outbreak counts peak around 2016 and remain elevated through 2022 before easing. The drop in 2025 likely reflects partial-year data rather than an abrupt improvement. The overall level hints at persistent, widespread reporting rather than isolated spikes.
+
+## Outbreaks by World Region
+![Outbreaks by world region](./outbreaks_by_world_region.png)
+
+Africa and Asia carry the highest aggregated outbreak totals, while the Americas also show substantial activity. Oceania and the residual "Other" grouping remain comparatively low, highlighting where monitoring resources are most heavily engaged.
 
 ## Notes
 - Counts rely on the `New outbreaks` field; entries with missing values were treated as zero for aggregation.
